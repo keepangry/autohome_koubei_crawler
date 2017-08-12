@@ -1,0 +1,12 @@
+
+cd /Users/yangsen/workspace/autohome_crawler/autohome
+
+scrapy crawl koubei_item -a limit=0-100000 2>zero
+
+
+scrapy crawl koubei_item -a limit=100000-200000 2>zero
+
+
+scrapy crawl koubei_item -a limit=200000-300000 2>zero
+
+scrapy crawl koubei_item -a limit=400000-500000 2>zero

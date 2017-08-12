@@ -1,0 +1,5 @@
+data/koubei/failed/*
+data/koubei/series/*
+*.pyc
+.DS_Store
+.idea/*
