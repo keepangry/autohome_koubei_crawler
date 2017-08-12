@@ -1,5 +1,4 @@
-data/koubei/failed/*
-data/koubei/series/*
+*.jl
 *.pyc
 .DS_Store
 .idea/*
